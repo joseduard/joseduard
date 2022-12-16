@@ -3,8 +3,8 @@
 **I am passionate about web development. My favorite technology is React**
 
 
-- 🔭 My current side-project is *Samay*. An e-commerce that seeks equitable and fair trade for all
+- 🔭 My current project in entreprise (Ex0-Dev) is *Eleph'Ant*. educational support for learning and memorizing, which is suitable for all children from 6 years old in schools or at home
 - 😄 Last project: *La Taupe*
-- 🌱 I’m currently learning: PHP Laravel, Vue.js.
+- 🌱 I’m currently learning: Docker, PHP Laravel, Vue.js, Nuxt.
 
 
